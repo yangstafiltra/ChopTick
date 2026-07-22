@@ -5,6 +5,8 @@
 左侧显示大型数字时钟，右侧随机展示单词及其释义、例句，每 60 秒自动刷新。
 ## 截图
 
+<img width="1920" height="1200" alt="Screenshot_22-7月_23-58-51_19464" src="https://github.com/user-attachments/assets/43b1020f-5835-471a-8c43-34c6f778563c" />
+
 
 
 ## 功能
@@ -18,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/yangstafiltra/choptick.git
+git clone https://github.com/yangstafiltra/ChopTick.git
 cd choptick
 cargo build --release
 ./target/release/choptick
